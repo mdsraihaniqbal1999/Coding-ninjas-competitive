@@ -80,7 +80,7 @@ int main( int argc , char ** argv )
 
 	for (int i = 0; i < n; ++i)
 	{
-		cin>>arr[i]
+		cin>>arr[i];
 	}
 	go(arr, n);
 
