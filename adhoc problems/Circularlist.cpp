@@ -40,7 +40,7 @@ position.
 using namespace std;
 
 int go(int i, int p){
-	int ans = (i+p)%12
+	int ans = (i+p)%12;
 	return ans;
 }
 
